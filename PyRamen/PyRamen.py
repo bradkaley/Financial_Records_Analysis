@@ -57,10 +57,6 @@ row_count = 0
 
 
 
-
-
-
-
     # @TODO: For every row in our sales data, loop over the menu records to determine a match
 
 
@@ -102,3 +98,9 @@ row_count = 0
 
 
 # @TODO: Write out report to a text file (won't appear on the command line output)
+
+#dictionary will hold the following: 
+#01-count: the total quantity for each ramen type
+#02-revenue: the total revenue for each ramen type
+#03-cogs: the total cost of goods sold for each ramen type
+#04-profit: the total profit for each ramen type
